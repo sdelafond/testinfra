@@ -1,0 +1,6 @@
+testinfra (3.2.0-1) unstable; urgency=medium
+
+  [ Sébastien Delafond ]
+  * First release (Closes: #933350)
+  
+ -- Sebastien Delafond <seb@debian.org>  Thu, 07 Nov 2019 10:42:14 +0100

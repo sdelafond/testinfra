@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: testinfra
+Source: https://github.com/philpep/testinfra
+
+Files: *
+Copyright: Philippe Pepiot
+License: Apache-2.0
+
+Files: debian/*
+Copyright: 2019 Sebastien Delafond <seb@debian.org>
+License: Apache-2.0
+
+License: Apache-2.0
+  See '/usr/share/common-licenses/Apache-2.0'.
